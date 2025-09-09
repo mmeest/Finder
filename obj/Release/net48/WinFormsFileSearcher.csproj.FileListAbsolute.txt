@@ -1,0 +1,10 @@
+C:\Users\ceops\Desktop\Finder\WinFormsFileSearcher\obj\Release\net48\WinFormsFileSearcher.csproj.AssemblyReference.cache
+C:\Users\ceops\Desktop\Finder\WinFormsFileSearcher\obj\Release\net48\WinFormsFileSearcher.Properties.Resources.resources
+C:\Users\ceops\Desktop\Finder\WinFormsFileSearcher\obj\Release\net48\WinFormsFileSearcher.csproj.GenerateResource.cache
+C:\Users\ceops\Desktop\Finder\WinFormsFileSearcher\obj\Release\net48\WinFormsFileSearcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceops\Desktop\Finder\WinFormsFileSearcher\obj\Release\net48\WinFormsFileSearcher.csproj.CoreCompileInputs.cache
+C:\Users\ceops\Desktop\Finder\WinFormsFileSearcher\bin\Release\net48\WinFormsFileSearcher.exe.config
+C:\Users\ceops\Desktop\Finder\WinFormsFileSearcher\bin\Release\net48\WinFormsFileSearcher.exe
+C:\Users\ceops\Desktop\Finder\WinFormsFileSearcher\bin\Release\net48\WinFormsFileSearcher.pdb
+C:\Users\ceops\Desktop\Finder\WinFormsFileSearcher\obj\Release\net48\WinFormsFileSearcher.exe
+C:\Users\ceops\Desktop\Finder\WinFormsFileSearcher\obj\Release\net48\WinFormsFileSearcher.pdb
